@@ -1,0 +1,4 @@
+WARNING:root:This is a warning message1
+WARNING:root:This is a warning message2
+WARNING:root:This is a warning message3
+WARNING:root:This is a warning4

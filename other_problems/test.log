@@ -1,0 +1,9 @@
+WARNING:root:This is a warning message1
+ERROR:root:This is an error message1
+CRITICAL:root:This is a critical message
+WARNING:root:This is a warning message2
+ERROR:root:This is an error message2
+WARNING:root:This is a warning message3
+ERROR:root:This is an error message3
+WARNING:root:This is a warning4
+INFO:root:This is a info message
