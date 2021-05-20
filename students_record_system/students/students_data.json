@@ -1,0 +1,28 @@
+{
+    "students_data": [
+        {
+            "name": "anu",
+            "rollno": "1",
+            "age": "11",
+            "gender": "F"
+        },
+        {
+            "name": "manu",
+            "rollno": "2",
+            "age": "9",
+            "gender": "F"
+        },
+        {
+            "name": "krish",
+            "rollno": "3",
+            "age": "12",
+            "gender": "F"
+        },
+        {
+            "name": "Sowparnika",
+            "rollno": "4",
+            "age": "13",
+            "gender": "F"
+        }
+    ]
+}

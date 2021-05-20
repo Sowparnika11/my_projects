@@ -1,0 +1,12 @@
+
+{% block content %}
+<form action = 'insert' method='POST'>
+    {% csrf_token %}
+    Enter the student name : <input type="text" name = "name"><br><br>
+    Enter the student rollno : <input type="text" name = "r_no"><br><br>
+    Enter the student age : <input type="text" name = "age"><br><br>
+    Enter the student gender : <input type="text" name = "gender"><br><br>
+    <input type = 'submit' >
+
+</form>
+{% endblock %}

@@ -1,0 +1,14 @@
+{% block content %}
+<form action = 'change' method='POST'>
+    {% csrf_token %}
+    Enter the student rollno : <input type="text" name = "r_no"><br><br>
+    <select name="attr" id="type">
+        <option value="name">name</option>
+        <option value="age">age</option>
+        <option value="gender">gender</option>
+    </select><br><br>
+    Enter the value to be updated : <input type="text" name = "change_data"><br><br>
+    <input type = 'submit' >
+
+</form>
+{% endblock %}

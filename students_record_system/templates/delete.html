@@ -1,0 +1,8 @@
+{% block content %}
+<form action ='remove' method='POST'>
+    {% csrf_token %}
+    Enter the student rollno : <input type="text" name = "r_no"><br><br>
+    <input type = 'submit' >
+
+</form>
+{% endblock %}
